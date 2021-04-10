@@ -28,15 +28,14 @@ We also tried firebase authentication in google cloud systems and analytics.
 We also have a AR/VR fitness workout sections.
 
 ## Technology Stack:
-  1) Ajax
+  1) HTML
   2) CSS
   3) Javascript
-  4) HTML
-  5) echoar
+  4) Spotify API, twilio API, Symptomchecker API
+  5) echoAR
   6) face_api.js, Chart.js
   7) MySQL
   8) PHP
-  9) spotify API, twilio API, Symptomchecker API, echoAR API
 
 ## Contributors:
 
