@@ -23,8 +23,6 @@ We have a symptom checker section where you can just give your inputs step-by-st
 
 Finally, we have a flowing UI catering to the needs of the users. We have tried to make the overall look and feel to make it calming, soothing, safe and engaging enough for our users.
 
-We also tried firebase authentication in google cloud systems and analytics.
-
 We also have a AR/VR fitness workout sections.
 
 ## Technology Stack:
